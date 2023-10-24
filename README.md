@@ -1,5 +1,4 @@
 # Challenge_02 Report
-![ramen](https://github.com/P4RASTOO/Challenge_02/assets/132952512/89013b6d-2d4c-42bc-a04a-d28b39e6ec1a)
 ## Overview of the Challenge PyRamen:
 ## Summary:
 This Python script is designed to help a ramen shop owner analyze their financial performance by processing menu and sales data. It calculates key metrics for each ramen product, including the quantity sold, revenue, cost of goods sold, and profit. The results are printed to the terminal and saved in a text file for further analysis.
