@@ -15,8 +15,12 @@ The results of the analysis will be printed to the terminal, and a text file wil
 ## Methods Used:
 The script uses a series of Python methods and libraries to accomplish the financial analysis. The following are common methods and libraries that might be used:
 
-Reading data from a CSV file using the csv library.
-Iterating through the dataset to calculate the required metrics.
-Storing and updating variables to keep track of total months, total profit/loss, average change, and the greatest increase and decrease in profits.
-Formatting and displaying the results to the terminal.
-Writing the analysis results to a text file using file I/O.
+*Reading data from a CSV file using the csv library.
+
+*Iterating through the dataset to calculate the required metrics.
+
+*Storing and updating variables to keep track of total months, total profit/loss, average change, and the greatest increase and decrease in profits.
+
+*Formatting and displaying the results to the terminal.
+
+*Writing the analysis results to a text file using file I/O.
